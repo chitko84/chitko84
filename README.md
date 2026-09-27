@@ -438,9 +438,11 @@ Each project is an opportunity for me to understand not only **how to make somet
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chitko84&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="170"
+src="https://github-stats-extended.vercel.app/api?username=chitko84&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitko84&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<img height="170"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=chitko84&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
 
 </div>
 
