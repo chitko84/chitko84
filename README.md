@@ -462,17 +462,19 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=chitko84&l
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chitko84&theme=github-compact&hide_border=true&area=true&v=2)](https://github.com/chitko84)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chitko84&theme=github_dark" width="100%" />
 
 </div>
 
 ---
 
-# GitHub Trophies
+# GitHub Overview
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chitko84&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&v=2)](https://github.com/chitko84)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitko84&theme=github_dark" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chitko84&theme=github_dark&utcOffset=8" height="180" />
 
 </div>
 
