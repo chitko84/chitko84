@@ -476,6 +476,10 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=chitko84&l
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chitko84&theme=github_dark&utcOffset=8" height="180" />
 
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chitko84&theme=github_dark" height="180" />
+
 </div>
 
 ---
